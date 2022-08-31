@@ -1,0 +1,15 @@
+
+html{
+    color: darkcyan;
+    text-align: center;
+    font-family: serif;
+    background-color: rgb(72, 10, 185);
+}
+
+@media screen and (max-width:500px) {
+
+html{ text-align: static;
+    background-color: rgb(71, 117, 71);
+    background-color: rgb(167, 185, 10);
+}
+}
